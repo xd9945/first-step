@@ -32,3 +32,9 @@ int main ()
 	return 0;
 	
 }
+
+int main()
+{
+	printf(“that's a bad day");
+	return 0;
+	       }
